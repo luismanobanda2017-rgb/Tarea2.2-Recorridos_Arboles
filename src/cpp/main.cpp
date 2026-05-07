@@ -514,7 +514,7 @@ void menuEjercicio4() {
 }
 
 // ================================================================
-//  EJERCICIO 5 -- Caso real: Sistema We
+//  EJERCICIO 5 -- Caso real: Sistema Web
 // ================================================================
 void menuEjercicio5() {
     int opcion;
