@@ -617,3 +617,4 @@ void pedirYValidarTexto(queue<string> recorrido, string nombre, string esperado)
         cout << "\n  [X]  Incorrecto. Esperado: " << esperado << endl;
     }
 }
+
