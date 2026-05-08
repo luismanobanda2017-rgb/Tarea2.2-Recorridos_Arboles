@@ -4,7 +4,7 @@
  *  Carrera  : Ingenieria de Software
  *  Materia  : Estructura de Datos  |  Curso: Tercero B
  *  Tema     : Recorridos de Arboles Binarios
- *  Autores  : Grupo de trabajo
+ *  Autores  : Luis Manobanda
  * ================================================================
  *
  *  Caso de aplicacion real:
