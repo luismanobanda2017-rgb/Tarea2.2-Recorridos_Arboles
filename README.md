@@ -42,7 +42,6 @@ Tarea2.2-Recorridos_Arboles/
 |-- docs/
 |   `-- guia_practica.md    <- Guia de clase con conceptos y ejemplos
 |-- capturas/               <- Capturas de ejecucion en consola
-|-- documentos/             <- Informe de guia practica
 |-- exercises/
 |   `-- ejercicios_grupales.md
 |-- moodle/
